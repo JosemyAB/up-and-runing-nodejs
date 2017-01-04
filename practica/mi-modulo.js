@@ -1,0 +1,1 @@
+exports.myText = 'Hola desde mi modulo';
